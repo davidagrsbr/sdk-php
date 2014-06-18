@@ -1,7 +1,7 @@
 <?php
 require_once "../../../lib/mercadopago.php";
 
-$mp = new MP("CLIENT_ID", "CLIENT_SECRET");
+$mp = new MP("3905519000105645", "5ztgrAA8CEXlxBS3mbi2eCVAGTkQTEoA");
 
 $preference = array(
     "items" => array(
